@@ -4,17 +4,9 @@
 
 <html>
   <head>
-  <meta = "utf-8">
-  <title>
-  Learning c++
-  </title>
+  
   </head>
 
-  <style>
-  h1 {
-      
-  }
-  </style>
 
   <body>
   <h1>Hello everyone!</h1>
